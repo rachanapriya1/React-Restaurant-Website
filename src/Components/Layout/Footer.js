@@ -30,7 +30,7 @@ const Footer = () => {
     </Box>
     
     <Typography variant='h5' sx={{"@media (max-width:600px)":{fontSize:'1rem'}}}>
-        All rights reserved &copy; Techinfo YT 
+        All rights reserved &copy; Priya 
         </Typography>
    </Box>
    </>
